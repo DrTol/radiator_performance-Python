@@ -18,6 +18,7 @@ Tr_AMTD=Tr.Tr_AMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n)
 Tr_GMTD=Tr.Tr_GMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n)
 Tr_LMTD=Tr.Tr_LMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n)
 
-print(Tr_AMTD)
-print(Tr_GMTD)
-print(Tr_LMTD)
+# Print to Screen as Table
+table={'Tr via AMTD': Tr_AMTD, 'Tr via GMTD': Tr_GMTD, 'Tr via LMTD': Tr_LMTD}
+for name, value in table.items():
+    print(f'{name:10} ==> {value:10f}')
