@@ -86,16 +86,3 @@ def Tr_LMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n):
         return math.nan
     else:
         return Tr_it2
-
-
-
-
-
-
-
-
-
-
-
-
-    
