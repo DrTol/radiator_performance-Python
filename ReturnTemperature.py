@@ -64,9 +64,7 @@ def Tr_GMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n):
         return Tr
 
 def Tr_LMTD(q,Ts,Ti,q_o,Ts_o,Tr_o,Ti_o,n):
-    # Calculates the return temperature from the radiator unit - based on AMTD
-    # Ref: Phetteplace - Optimal Design of Piping Systems for District Heating
-    # prepared by Hakan ibrahim Tol, PhD
+    # Calculates the return temperature from the radiator unit - based on LMTD
 
     import math
     import TemperatureDifference as TD
