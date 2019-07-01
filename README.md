@@ -27,7 +27,7 @@ You are free to use, modify and distribute the code as long as the authorship is
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish these Python tools developed during the PhD study here in GitHub.
 
 ## How2Cite:
-1. Tol, Hİ. radiator_performance-Python. DOI: 10.5281/zenodo.1297065. GitHub Repository 2018; https://github.com/DrTol/radiator_performance-Python
+1. Tol, Hİ. radiator_performance-Python. DOI: 10.5281/zenodo.3265381. GitHub Repository 2019; https://github.com/DrTol/radiator_performance-Python
 2. Tol, Hİ. District heating in areas with low energy houses - Detailed analysis of district heating systems based on low temperature operation and use of renewable energy. PhD Supervisors: Svendsen S. & Nielsen SB. Technical University of Denmark 2015; 204 p. ISBN: 9788778773685.
 
 ## References
