@@ -12,7 +12,7 @@ This Python tool calculates the return temperature for a residential radiator un
 ## Features
 The main idea here is to develop simple and reliable emprical models for residential radiator units so to be used in system level modelling (i.e. at district heating simulations). Hence, this Python models estimate the radiator behaviour in terms of return temperature at different operational conditions (e.g. at various rates of heat demand at different degrees of supply temperature).
 
-- Four different Python functions are given, each basing on different approaches for the radiator excess temperature such as either Logarithmic Mean Temperature Difference (LMTD) - implicit, Geometric Mean Temperature Difference (GTMD) - explicit, or Arithmetic Mean Temperature Difference (AMTD) - explicit.
+- Three different Python functions are given, each basing on different approaches for the radiator excess temperature such as either Logarithmic Mean Temperature Difference (LMTD) - implicit, Geometric Mean Temperature Difference (GTMD) - explicit, or Arithmetic Mean Temperature Difference (AMTD) - explicit.
 - Error evaluation are involved for GMTD and AMTD approaches, as error criteria formulated with the approach factor. 
 
 ## How2Use
